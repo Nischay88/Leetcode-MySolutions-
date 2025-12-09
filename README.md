@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 ## Counting
 |  |
