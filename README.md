@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Nischay88/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 ## Counting
 |  |
@@ -55,4 +57,12 @@
 |  |
 | ------- |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
