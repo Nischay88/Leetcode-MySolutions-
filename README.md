@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
 ## String
@@ -46,6 +47,7 @@
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
@@ -73,9 +75,11 @@
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 <!---LeetCode Topics End-->
