@@ -11,12 +11,14 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
+| [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/Nischay88/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
