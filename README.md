@@ -56,6 +56,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nischay88/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Nischay88/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Prefix Sum
