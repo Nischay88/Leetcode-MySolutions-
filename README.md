@@ -100,6 +100,7 @@
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Brainteaser
 |  |
@@ -132,6 +133,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Nischay88/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -151,6 +153,7 @@
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 ## Randomized
 |  |
 | ------- |
@@ -160,9 +163,11 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
