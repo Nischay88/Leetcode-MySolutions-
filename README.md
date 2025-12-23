@@ -67,6 +67,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nischay88/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nischay88/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/Nischay88/Leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Brainteaser
 |  |
@@ -127,6 +129,7 @@
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Nischay88/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
@@ -144,8 +147,17 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Randomized
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Nischay88/Leetcode/tree/master/0528-random-pick-with-weight) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
