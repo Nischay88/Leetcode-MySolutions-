@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nischay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0355-design-twitter](https://github.com/Nischay88/Leetcode/tree/master/0355-design-twitter) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nischay88/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -133,6 +134,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Nischay88/Leetcode/tree/master/0355-design-twitter) |
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
@@ -173,4 +175,12 @@
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Nischay88/Leetcode/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/Nischay88/Leetcode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
