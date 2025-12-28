@@ -74,6 +74,7 @@
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nischay88/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Nischay88/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nischay88/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -134,6 +135,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nischay88/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Design
 |  |
@@ -164,6 +166,7 @@
 | [0729-my-calendar-i](https://github.com/Nischay88/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Randomized
 |  |
 | ------- |
