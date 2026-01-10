@@ -10,6 +10,7 @@
 | [0692-top-k-frequent-words](https://github.com/Nischay88/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0756-pyramid-transition-matrix](https://github.com/Nischay88/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Nischay88/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nischay88/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Nischay88/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/Nischay88/Leetcode/tree/master/1711-count-good-meals) |
@@ -50,10 +51,12 @@
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Nischay88/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Math
 |  |
 | ------- |
@@ -224,4 +227,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nischay88/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nischay88/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
