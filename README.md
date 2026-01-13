@@ -99,6 +99,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Nischay88/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nischay88/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nischay88/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3453-separate-squares-i](https://github.com/Nischay88/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/Nischay88/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nischay88/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Nischay88/Leetcode/tree/master/3583-count-special-triplets) |
@@ -190,6 +191,7 @@
 | [0731-my-calendar-ii](https://github.com/Nischay88/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Nischay88/Leetcode/tree/master/0732-my-calendar-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nischay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/Nischay88/Leetcode/tree/master/3453-separate-squares-i) |
 ## Randomized
 |  |
 | ------- |
